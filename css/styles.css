@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#evan-markert-cover {
+    background-image: url("http://i.imgur.com/6OhXmf0.jpg");
+}
+
+#evan-markert-card {
+    background-image: url("http://i.imgur.com/VmQQGN3.png");
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
